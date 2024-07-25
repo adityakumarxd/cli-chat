@@ -37,7 +37,8 @@ Connect to the server using one of the following methods:
 ```bash
 nc <server_public_ip> <port>
 ```
-### PuTTY (Windows): If you're on Windows, select the raw connection type and fill in the host's IP and port in PuTTY's configuration.
+### PuTTY (Windows): 
+If you're on Windows, select the raw connection type and fill in the host's IP and port in PuTTY's configuration.
 Alternatively, run cmd and enter:
 
 ```bash
