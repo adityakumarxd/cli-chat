@@ -6,12 +6,12 @@ This is a simple command-line based chat application written in Python. It allow
 
 1. Clone this repository to your local machine.
 
-2. Open the `server.py` file and locate the `PORT` constant at the top of the file:
+2. Open the `main.py` file and locate the `PORT` constant at the top of the file:
 ```python
 PORT = 8008  # Change this to your desired port
 ```
 
-3. Create a credentials.txt file in the same directory as server.py with the following format:
+3. Create a credentials.txt file in the same directory as main.py with the following format:
   ```makefile
 username1:password1
 username2:password2
@@ -24,7 +24,7 @@ pip install requests
 ```
 5. Run the server by executing the following command in your terminal:
 ```bash
-python server.py
+python main.py
 ```
 
 ## Connecting
