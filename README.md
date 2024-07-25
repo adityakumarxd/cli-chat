@@ -57,6 +57,10 @@ Users cannot connect with the same username more than once.
 Color-coded messages for better readability.
 The server shows the number of users upon authentication and updates when users join or leave the chat.
 
+## Usage Examples
+
+<img width="1536" alt="Screenshot 2024-07-25 at 6 01 10 PM" src="https://github.com/user-attachments/assets/72b159a9-f9f8-4bb6-ab3d-9f7b007bb814">
+
 
 
 
